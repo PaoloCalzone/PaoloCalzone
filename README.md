@@ -3,5 +3,5 @@
 with all the concepts and the tools Ethereum's blockchain created.
 - 🌱 I’m currently developing a bunch of dApps bringing together my past experience in fullstack applications and my actual work on smart contracts.
 - 💞️ I’m looking to collaborate on any project in that field.
-- 📫 You can DM on twitter @paolocalzone. 
+
 
